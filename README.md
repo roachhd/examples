@@ -1,4 +1,4 @@
-AniJS examples
+AniJS examples - adding mine soon :)
 ==============
 
 Share your AniJS examples here ;)
